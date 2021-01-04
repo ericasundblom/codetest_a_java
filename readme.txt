@@ -7,13 +7,13 @@ Java version: 12
 
 
 Compile
-mvn compile -f "yourpompath1/pom.xml"
+mvn compile -f "yourpompath/pom.xml"
 
 Test
 mvn test -f "yourpompath/pom.xml"
 
 Run
-cd yourfolderpath1/Codetest-Mortageplan ; yourjavapath/jdk-12.0.2/bin/java -Dfile.encoding=UTF-8 -cp yourfolderpath2/codetest_a_java/target/classes codetest.App
+cd yourfolderpath/codetest_a_java ; yourjavapath/jdk-12.0.2/bin/java -Dfile.encoding=UTF-8 -cp yourfolderpath/codetest_a_java/target/classes codetest.App
 
 
 
