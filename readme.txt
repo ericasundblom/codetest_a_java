@@ -13,7 +13,7 @@ Test
 mvn test -f "yourpompath/pom.xml"
 
 Run
-cd yourfolderpath1/Codetest-Mortageplan ; yourjavapath/jdk-12.0.2/bin/java -Dfile.encoding=UTF-8 -cp yourfolderpath2/codetest/target/classes codetest.App
+cd yourfolderpath1/Codetest-Mortageplan ; yourjavapath/jdk-12.0.2/bin/java -Dfile.encoding=UTF-8 -cp yourfolderpath2/codetest_a_java/target/classes codetest.App
 
 
 
